@@ -1,0 +1,20 @@
+site_name: Citrix XenServer Supplemental Packs and the DDK Guide
+site_description: Citrix XenServer Supplemental Packs and the DDK Guide
+theme_dir: citrix-sdk
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
+  - footnotes
+  - meta
+
+pages:
+- Introduction: index.md
+- Getting Started: getting-started.md
+- Building the example packs: building-example-packs.md
+- Installing supplemental packs: installing-packs.md
+- Producing driver RPMs: producing-rpms.md
+- Creating a supplemental pack: creating-a-pack.md
+- Rules and Guidelines: rules-and-guidelines.md
+- Testing and Certification: testing-and-certification.md
+- Additional Resources: additional-resources.md
