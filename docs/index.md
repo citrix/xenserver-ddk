@@ -1,5 +1,7 @@
 # Citrix XenServer Supplemental Packs and the DDK Guide
 
+The latest version of the Citrix Hypervisor (formerly XenServer) Supplemental Packs and the DDK Guide is available at <https://developer-docs.citrix.com/projects/citrix-hypervisor-ddk/en/latest/>.
+
 Supplemental packs are used to modify and extend the functionality of a XenServer host, by installing software into the control domain, dom0.
 For example, an OEM partner might wish to ship XenServer with a suite of management tools that require SNMP agents to be installed, or provide a driver that supports the latest hardware.
 Users can add supplemental packs either during initial XenServer installation, or at any time afterwards.
